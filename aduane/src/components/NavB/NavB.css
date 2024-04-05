@@ -1,0 +1,108 @@
+
+
+.NavB{
+    display: flex;
+    align-items: center;
+    /* gap: 150px; */
+    justify-content: space-evenly;
+    background-color: lightslategray;
+    padding: 5px;
+}
+
+.NavB1 h2{
+    font-size: 2rem;
+    line-height: 20px;
+}
+
+
+.NavB1 h2 span{
+    font-size: rem;
+    color: white;
+    font-style: italic;
+    border: 1px solid crimson;
+    background-color: crimson;
+}
+
+
+.NavB1{
+    line-height: 0.1px;
+}
+
+.NavB2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.NavB2 .page{
+    line-height: 0.2rem;
+}
+
+.NavB2 input{
+    padding: 10px;
+    width: 500px;
+    border-radius: 5px;
+}
+
+.NavB3 .cart-info{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.NavB3 .cart-info .fa-cart-shopping{
+    font-size: 1.2rem;
+    color: #ffff;
+}
+
+.NavB3 .info{
+    line-height: 0.2rem;
+}
+.NavB3 .info h2{
+    font-size: 1.3rem;
+}
+
+.NavB3{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.NavB3 .im{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.NavB3 .im .fa-solid{
+    font-size: 1.2rem;
+    color: #ffff;
+}
+
+.NavB3 .heart-run{
+    display:flex ;
+}
+
+.NavB3 .cart-run{
+    display: flex;
+    
+}
+
+.NavB3 .cart-run .run{
+    background-color: lightblue;
+}
+
+.NavB3 .run{
+    border: 1px solid;
+    border-radius: 20px;
+    width: 8px;
+    height: 8px;
+    margin-left: -5px;
+    background-color: crimson;
+    margin-top: -3px;
+}
+
+.fa-search{
+    margin-left: -25px;
+    font-size: 1.2rem;
+}

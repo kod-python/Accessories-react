@@ -1,0 +1,31 @@
+
+.Gallery{
+    background-color: #ffff;
+    padding: 70px;
+}
+.Gallery h2{
+    font-size: 1.2rem;
+    margin-top: -50px;
+    padding-bottom: 50px;
+}
+
+.img-gallery .but-info{
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+
+.img-gallery button{
+    width: 130px;
+    height: 35px;
+    background-color: orangered;
+    color: white;
+    
+}
+
+.img-main{
+  display: grid;
+  align-items: center;
+  gap: 50px;
+  grid-template-columns: auto auto auto auto;
+}

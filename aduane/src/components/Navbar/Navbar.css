@@ -1,0 +1,88 @@
+
+
+*{
+    list-style-type: none;
+}
+
+
+
+nav .loca{
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+
+nav .round{
+
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #ffff;
+    
+}
+
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+   gap: 400px;
+   
+   justify-content: space-evenly;
+   background-color: rgb(94, 85, 85);
+}
+
+.nav2{
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.nav2 .hp .number{
+    color: #ffff;
+}
+
+.nav2 .hp p{
+    color: grey;
+}
+.image{
+    display: flex;
+    gap: 20px;
+   
+}
+
+.image .fa-solid{
+    color: #ffff;
+}
+
+
+.hp p span{
+    font-size: 1.3rem;
+    color: crimson;
+}
+
+.navbar a{
+    color: #ffff;
+    transition: 1s ease forwards;
+    transition-property: color;
+
+}
+
+
+.fa-location-dot{
+    color: white;
+}
+
+
+
+
